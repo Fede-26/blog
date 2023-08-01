@@ -15,7 +15,7 @@ enableCodeCopy = false
 mainSections = ["posts", "guides", "projects", "notes"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -65,7 +65,7 @@ disableImageOptimization = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
