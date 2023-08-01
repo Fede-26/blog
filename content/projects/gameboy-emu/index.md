@@ -6,5 +6,5 @@ summary: "Classic GameBoy emulator written in Rust. The emulator implements all 
 showReadingTime: false
 _build:
   render: "false"
-  list: "local"
+  # list: "local"
 ---

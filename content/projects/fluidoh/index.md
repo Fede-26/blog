@@ -6,5 +6,5 @@ summary: "Fluid simulator written in Python using Pygame. Use the Navier-Stokes 
 showReadingTime: false
 _build:
   render: "false"
-  list: "local"
+  # list: "local"
 ---

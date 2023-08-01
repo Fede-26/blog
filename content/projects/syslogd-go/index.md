@@ -6,5 +6,5 @@ summary: "Server syslog written in Go for educational purposes."
 showReadingTime: false
 _build:
   render: "false"
-  list: "local"
+#   list: "local"
 ---

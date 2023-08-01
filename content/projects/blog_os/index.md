@@ -6,5 +6,5 @@ summary: "Small x86 kernel written in Rust and QEMU. The kernel can handle inter
 showReadingTime: false
 _build:
   render: "false"
-  list: "local"
+  # list: "local"
 ---

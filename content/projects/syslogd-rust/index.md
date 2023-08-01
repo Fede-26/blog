@@ -2,9 +2,8 @@
 title: "Syslogd server in Rust"
 description: "A simple syslogd server written in Rust."
 date: 2022-12-24
-draft: true
+draft: false
 tags: ["rust", "syslog", "server"]
-categories: ["projects"]
 showTableOfContents: true
 ---
 

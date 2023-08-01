@@ -6,5 +6,5 @@ summary: "Fluid simulation written in Rust using the same algorithms of FLUIDOH.
 showReadingTime: false
 _build:
   render: "false"
-  list: "local"
+  # list: "local"
 ---
