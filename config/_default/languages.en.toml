@@ -10,7 +10,7 @@ title = "7-bit.xyz"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "A blog a bit off. Sometimes written in English, sometimes in Italian."
+  description = "A blog a bit off. Sometimes written in english, a volte in italiano."
   copyright = "Copy, _right?_ :thinking_face: (CC BY-NC-SA 4.0)"
 
 [author]
@@ -40,7 +40,7 @@ title = "7-bit.xyz"
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
-    { mastodon = "https://mastodon.instance/@username" },
+    # { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
