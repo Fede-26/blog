@@ -1,6 +1,6 @@
 ---
 title: "7-bit.xyz"
-description: "This is a demo of adding content to the homepage."
+description: "A blog a bit off."
 ---
 ### A blog a bit off.
 
