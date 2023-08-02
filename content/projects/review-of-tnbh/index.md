@@ -9,8 +9,6 @@ tags:
 ---
 # Automatizza il caricamento dei numeri brevi su Tim con TNBH
 
-![TNBH](https://github.com/Marcellone/TNBH/blob/main/Logo.png)
-
 Sei stanco di dover caricare manualmente i numeri brevi uno per uno sul portale Tim? Hai bisogno di una soluzione rapida ed efficiente per gestire grandi quantità di numeri brevi? Allora, il **TNBH (Tim Numeri Brevi Helper)** è lo strumento che fa al caso tuo!
 
 Il TNBH è un potente tool open-source creato da un mio amico appassionato di automazione e programmazione. Ti permette di automatizzare il caricamento dei numeri brevi sul portale Tim utilizzando semplicemente un file CSV e il potere di Selenium e Python.
