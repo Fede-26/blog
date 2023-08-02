@@ -7,19 +7,30 @@ tags:
     - tools
     - python
 ---
+
+
+
 # Automatizza il caricamento dei numeri brevi su Tim con TNBH
 
-Sei stanco di dover caricare manualmente i numeri brevi uno per uno sul portale Tim? Hai bisogno di una soluzione rapida ed efficiente per gestire grandi quantità di numeri brevi? Allora, il **TNBH (Tim Numeri Brevi Helper)** è lo strumento che fa al caso tuo!
+Sei stanco di dover caricare manualmente i numeri brevi uno per uno sul portale Tim? Hai bisogno di una soluzione rapida ed efficiente per gestire grandi quantità di numeri brevi? Allora, **TNBH (Tim Numeri Brevi Helper)** è lo strumento che fa al caso tuo!
 
-Il TNBH è un potente tool open-source creato da un mio amico appassionato di automazione e programmazione. Ti permette di automatizzare il caricamento dei numeri brevi sul portale Tim utilizzando semplicemente un file CSV e il potere di Selenium e Python.
+TNBH è un potente tool open-source creato da un mio amico appassionato di automazione e programmazione. Ti permette di automatizzare il caricamento dei numeri brevi sul portale Tim utilizzando semplicemente un file CSV e il potere di Selenium e Python.
 
 # Cos'è TNBH?
 
-Il TNBH, acronimo di Tim Numeri Brevi Helper, è un'applicazione creata per semplificare e automatizzare il processo di caricamento dei numeri brevi sul portale Tim. Questo strumento si basa sulla combinazione di due tecnologie chiave:
+{{< typeit 
+  lifeLike=true
+  tag="h2"
+  loop=true
+>}}
+Tim Numeri Brevi Helper
+{{< /typeit >}}
 
-1. **Selenium**: Un framework di automazione del browser che consente di controllare interattivamente un browser web e simulare le azioni di un utente. In questo caso, il TNBH utilizza Selenium per interagire con il portale Tim e caricare i numeri brevi.
+TNBH, acronimo di Tim Numeri Brevi Helper, è un'applicazione creata per semplificare e automatizzare il processo di caricamento dei numeri brevi sul portale Tim. Questo strumento si basa sulla combinazione di due tecnologie chiave:
 
-2. **Python**: Un linguaggio di programmazione potente e versatile. Il TNBH è stato sviluppato interamente in Python, sfruttando le sue capacità di scripting e le numerose librerie disponibili per automatizzare il processo di caricamento.
+1. **Selenium**: Un framework di automazione del browser che consente di controllare interattivamente un browser web e simulare le azioni di un utente. In questo caso, TNBH utilizza Selenium per interagire con il portale Tim e caricare i numeri brevi.
+
+2. **Python**: Un linguaggio di programmazione potente e versatile. TNBH è stato sviluppato interamente in Python, sfruttando le sue capacità di scripting e le numerose librerie disponibili per automatizzare il processo di caricamento.
 
 # Come funziona TNBH?
 
@@ -36,7 +47,7 @@ Il funzionamento di TNBH è incredibilmente semplice e veloce. Segui questi semp
 3. **Configurazione CSV**: Prepara un file CSV contenente i numeri brevi che desideri caricare sul portale Tim.
    Il formato del CSV deve rispettare quello richiesto da TNBH (`ID;Descrizione;NumeroTelefono;Nome`).
 
-4. **Esecuzione**: Avvia lo script principale, e il TNBH aprirà un browser e si collegherà automaticamente al portale Tim.
+4. **Esecuzione**: Avvia lo script principale, e TNBH aprirà un browser e si collegherà automaticamente al portale Tim.
    Inserirà le credenziali di accesso, caricherà i numeri brevi presenti nel CSV e completerà l'intero processo per te.
 
 
