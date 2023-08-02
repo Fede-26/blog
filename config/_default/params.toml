@@ -10,7 +10,7 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
 mainSections = ["posts", "guides", "projects", "notes"]
 # robots = ""
@@ -23,8 +23,8 @@ disableImageOptimization = false
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
