@@ -15,6 +15,8 @@ enableCodeCopy = false
 mainSections = ["posts", "guides", "projects", "notes"]
 # robots = ""
 
+
+
 disableImageOptimization = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
