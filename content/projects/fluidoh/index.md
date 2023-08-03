@@ -7,4 +7,5 @@ showReadingTime: false
 _build:
   render: "false"
   # list: "local"
+langs: "English"
 ---

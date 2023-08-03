@@ -3,6 +3,7 @@ title: "Review of: TNBH - Tim Numeri Brevi Helper"
 date: 2023-08-02T18:43:52+02:00
 draft: false
 showComments: true
+langs: "Italian"
 tags:
     - tools
     - python

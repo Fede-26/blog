@@ -8,6 +8,7 @@ tags:
     - School
     - TPS
 
+langs: "Italian"
 draft: false
 ---
 {{< katex >}}

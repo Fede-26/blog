@@ -4,6 +4,7 @@ description: "A simple syslogd server written in Rust."
 date: 2022-12-24
 draft: false
 tags: ["rust", "syslog", "server"]
+langs: "English"
 showTableOfContents: true
 ---
 

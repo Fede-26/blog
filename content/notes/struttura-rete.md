@@ -4,6 +4,7 @@ author: ["Federico Zotti"]
 date: 2021-09-29
 tags: ["School", "TPS", "OSI", "Networking"]
 categories: Notes
+langs: "Italian"
 draft: false
 ---
 

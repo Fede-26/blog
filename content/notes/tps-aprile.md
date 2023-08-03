@@ -6,6 +6,7 @@ tags:
     - "Sistemi operativi"
     - "School"
     - TPS
+langs: "Italian"
 draft: true
 ---
 {{< katex >}}

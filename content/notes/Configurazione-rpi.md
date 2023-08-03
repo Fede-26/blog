@@ -6,6 +6,7 @@ tags:
     - RPi
     - School
     - TPS
+langs: "Italian"
 draft: false
 ---
 

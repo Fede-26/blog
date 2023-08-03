@@ -7,6 +7,7 @@ tags:
     - School
     - Basics of
     - TPS
+langs: "Italian"
 draft: false
 ---
 {{< katex >}}

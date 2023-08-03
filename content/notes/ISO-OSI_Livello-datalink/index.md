@@ -5,6 +5,7 @@ date: 2022-01-17
 categories: Notes
 tags: ["School", "OSI", "Networking", "TPS"]
 draft: false
+langs: "Italian"
 ---
 {{< katex >}}
 

@@ -4,6 +4,7 @@ author: ["Federico Zotti"]
 date: 2022-10-05
 categories: Notes
 tags: ["School", "TPS", "Cryptography"]
+langs: "Italian"
 draft: true
 ---
 {{< katex >}}

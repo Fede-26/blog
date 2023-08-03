@@ -1,6 +1,7 @@
 ---
 title: Registi e Processore
 date: 2021-04-20T12:14:21+01:00
+langs: "Italian"
 categories: Notes
 tags:
     - "OS"

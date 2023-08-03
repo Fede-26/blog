@@ -5,6 +5,7 @@ date: 2021-05-11
 categories: Notes
 lastmod: 2021-05-18T12:54:16+02:00
 tags: ["School", "IP", "Networking", "Basics of", "TPS"]
+langs: "Italian"
 draft: false
 ---
 {{< katex >}}

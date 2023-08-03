@@ -6,6 +6,7 @@ tags:
     - Scuola
     - PCTO
     - Frontend
+langs: "Italian"
 draft: false
 ---
 

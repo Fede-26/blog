@@ -4,6 +4,7 @@ author: ["Federico Zotti"]
 date: 2021-11-25
 tags: ["School", "Basics of", "ipc", "TPS"]
 categories: Notes
+langs: "Italian"
 draft: false
 ---
 

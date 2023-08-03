@@ -35,6 +35,24 @@ name = "Projects"
 pageRef = "projects"
 weight = 40
 
+[[main]]
+name = "Languages"
+weight = 70
+
+[[main]]
+name = "English"
+parent = "Languages"
+pageRef = "langs/english"
+weight = 10
+
+[[main]]
+name = "Italian"
+parent = "Languages"
+pageRef = "langs/italian"
+weight = 20
+
+
+
 # [[main]]
 # name = "Portfolio"
 # url = "https://fede-26.codeberg.page/portfolio"
