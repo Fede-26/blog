@@ -7,7 +7,7 @@ layout: "simple"
 
 ## What is this site?
 
-This websites is the \\(n\\)-th iteration of my personal website. It is a static site generated with [Hugo](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com).
+This websites is the $n$-th iteration of my personal website. It is a static site generated with [Hugo](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com).
 
 ## Other sites
 
