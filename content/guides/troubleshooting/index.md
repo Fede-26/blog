@@ -19,7 +19,7 @@ Qui mettero delle note personali per evitare di ritrovarmi sempre con gli stessi
 ##### coexistence modules
 This solve some glitches with bluetooth headphones.
 
-[wiki.archlinux.org/title/Network_configuration/Wireless#Bluetooth_coexistence](https://wiki.archlinux.org/title/Network_configuration/Wireless#Bluetooth_coexistence)
+[Arch Wiki: Network_configuration/Wireless - Bluetooth_coexistence](https://wiki.archlinux.org/title/Network_configuration/Wireless#Bluetooth_coexistence)
 
 `/etc/modprobe.d/iwlwifi.conf`
 ```

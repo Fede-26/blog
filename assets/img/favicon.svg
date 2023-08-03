@@ -5,9 +5,9 @@
     <path id="text-path-0" d="M 300.54 562.319 C 306.833 549.863 512.38 145.025 518.143 135.381"/>
   </defs>
   <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); visibility: hidden;" d="M 272.865 569.126 L 514.428 94.881"/>
-  <rect width="500" height="500" style="fill: rgb(255, 255, 255);"/>
+  <rect width="500" height="500" style="fill: rgb(255, 255, 255); visibility: hidden;"/>
   <g transform="matrix(1, 0, 0, 1, 52.225235, -17.126383)" style="">
-    <text style="fill: rgb(51, 51, 51); font-family: Dosis; font-size: 483.9px; text-anchor: middle; white-space: pre;" x="104.866" y="436.88" dx="-7.993" dy="-8.881">7</text>
-    <text style="fill: rgb(51, 51, 51); font-family: Dosis; font-size: 289px; font-weight: 600; white-space: pre;" transform="matrix(0.96054, 0, 0, 0.96054, -73.230011, 31.335623)"><textPath startOffset="83" xlink:href="#text-path-0">Bit</textPath></text>
+    <text style="fill: rgb(155, 112, 223); font-family: Dosis; font-size: 483.9px; text-anchor: middle; white-space: pre;" x="104.866" y="436.88" dx="-7.993" dy="-8.881">7</text>
+    <text style="fill: rgb(55, 147, 13); font-family: Dosis; font-size: 289px; font-weight: 600; paint-order: fill; stroke-linecap: round; white-space: pre;" transform="matrix(0.96054, 0, 0, 0.96054, -73.230011, 31.335623)"><textPath startOffset="83" xlink:href="#text-path-0">Bit</textPath></text>
   </g>
 </svg>
