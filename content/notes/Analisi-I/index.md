@@ -1,15 +1,13 @@
 ---
-title: Appunti di Analisi I
+title: Appunti di Analisi Matematica
 author:
   - Federico Zotti
 date: 2023-09-30
-anno-accademico: "1"
-subtitle: Analisi Matematica - Informatica - 23/24
 langs: Italian
 categories: Notes
 tags:
-	- "Analisi"
-	- "Uni"
+  - "Analisi"
+  - "Uni"
 draft: false
 ---
 {{< katex >}}
