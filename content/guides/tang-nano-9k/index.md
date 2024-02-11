@@ -16,14 +16,14 @@ draft: false
 
 # Pinout
 
-- Clock (*27MHz*): `52`
+- Clock *(27MHz)*: `52`
 - Leds:
   - Pins: `10`-`16` (w/o `12`)
-  - Commone anode (*inverted signal*)
+  - Commone anode *(inverted signal)*
   - 1.8V Bank3
 - Buttons:
   - Pins: `3`-`4`
-  - Pull-up resistors (*inverted signal*)
+  - Pull-up resistors *(inverted signal)*
   - 1.8V Bank3
 
 # Gowin EDA (Linux)
