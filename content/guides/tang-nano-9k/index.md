@@ -4,7 +4,7 @@ date: 2024-02-09
 categories: "Guides"
 tags:
     - FPGA
-draft: true
+draft: false
 ---
 
 # Package
