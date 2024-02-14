@@ -1,10 +1,11 @@
 ---
-title: "Guida FPGA Tang Nano 9k"
+title: "Guide to use the Tang Nano 9k FPGA board"
 date: 2024-02-09
 categories: "Guides"
 tags:
     - FPGA
 draft: false
+langs: "English"
 ---
 
 # Package
