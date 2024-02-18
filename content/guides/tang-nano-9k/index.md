@@ -48,3 +48,7 @@ Be aware that some public wifi networks block access to these ports.
 ## Use
 
 Just launch `./bin/gw_eda` from the terminal.
+
+# Simulation
+
+To simulate VHDL: [https://www.eevblog.com/forum/fpga/gowin-ip-simulation/](https://www.eevblog.com/forum/fpga/gowin-ip-simulation/)
