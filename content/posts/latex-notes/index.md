@@ -1,12 +1,12 @@
 ---
-title: "Prendere appunti in LaTeX"
-date: 2023-10-22
-categories: "Posts"
+title: Prendere appunti in LaTeX con Obsidian
+date: 2024-03-02
+categories: Posts
 tags:
-    - Uni
-    - Latex
-    - Lectures
-langs: "Italian"
+  - Uni
+  - Latex
+  - Lectures
+langs: Italian
 draft: true
 ---
 
@@ -17,6 +17,8 @@ Facendo un corso di laurea prettamente tecnico (*CdL informatica*), i miei appun
 
 In aula, se non per svolgere gli esercizi, utilizzo il mio pc per riscrivere dettagliatamente ciò che il prof dice.
 Questo mi permette di automatizzare molto del lavoro richiesto per formattare decentemente i testi.
+
+Come editor utilizzo obsidian perchè al momento è quello più funzioni supportate.
 
 # Prima fase: Markdown
 
@@ -31,16 +33,29 @@ $$
 2 + 2 = 4
 $$
 ```
+
 L'unica pecca mancante sono dei box colorati, molto utili per separare definizioni, dimostrazioni, esempi e osservazioni negli appunti di Analisi Matematica.
-Per risolvere il problema ho trovato degli script che permettono di creare degli *environment* (spiegati più avanti) latex in markdown, utilizzando la sintassi:
+Per risolvere il problema ho trovato degli script che permettono di creare degli *environment* (spiegati più avanti) latex in markdown, utilizzando la sintassi delle [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) in obsidian:
 
 ```markdown
-::: def
-
-**Def:** questa è una definizione.
-
-:::
+> [!def] **Definizione**:
+>
+> questa è una definizione.
+>
 ```
+
+In generale preferisco tenere gli appunti in markdown leggibili (su obsidian) e molto simili a quelli compilati, dunque tramite il plugin [eth-p/obsidian-callout-manager](https://github.com/eth-p/obsidian-callout-manager) ho creato degli equivalenti degli environment creati con colori simili.
+
+Gli environment che uso principalmente sono:
+
+- Teorema: `[!teo]`
+- Esempio: `[!es]`
+- Esercizio: `[!ese]`
+- Dimostrazione: `[!dim]`
+- Definizione: `[!def]`
+- Lemma (usa `newlemma` come env): `[!lemma]`
+- Osservazione: `[!oss]`
+- Warning: `[!warn]`
 
 Dopo aver finito la stesura degli appunti, procedo con la *compilazione*.
 
@@ -53,7 +68,7 @@ Io lo utilizzo principalmente per convertire markdown -> latex -> pdf.
 
 Durante la conversione è possibile utilizzare filtri e template per trasformare il documento a nostro piacimento.
 
-Come template principale utilizzo **eisvogel** (#editing: add link).
+Come template principale utilizzo [**enhuiz/eisvogel**](https://github.com/enhuiz/eisvogel).
 Esso però non contiene tutte le mie preferenze e dunque aggiungo dei miei comandi tramite un file `header`.
 
 ## Header LaTeX
@@ -66,7 +81,8 @@ Esso però non contiene tutte le mie preferenze e dunque aggiungo dei miei coman
 
 - Environment
 - Auto date
+- Callout
 
 # Terza fase: Publishing
 
-Uso un makefile.
+Uso uno script in python da me scritto per gestire tutti i file e gli output generati.

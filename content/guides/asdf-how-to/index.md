@@ -4,9 +4,9 @@ date: 2023-08-02T18:39:52+02:00
 draft: false
 showComments: true
 tags:
-    - tools
-    - linux
-langs: "English"
+  - tools
+  - linux
+langs: English
 ---
 
 # Introduction
