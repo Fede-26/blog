@@ -2,6 +2,7 @@
 title: "About"
 description: "This is the about page with contacts and other info."
 layout: "simple"
+date: 2024-05-06
 ---
 {{< katex >}}
 
